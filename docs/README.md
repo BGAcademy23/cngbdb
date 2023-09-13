@@ -12,6 +12,11 @@ Deputy Director of the Bio-informatics Data Center of the China National GeneBan
 
 You will be introduced to the standard workflow on comparative genomics analysis, how to start a comparative genome study based on the CNGBdb datasets, and how to utilize CNGB's online analysis platform, CODEPLOT, and spatial transcriptomics database, STomicDB, to facilitate scientific discoveries.
 
+## Slides
+- [Big Data and AI](big_data_and_ai.pdf)
+- [Raising comparative genomic research ideas in the big data era](raising_comparative_genomic_research_idea_in_the_big_data_era.pdf)
+- [Visualization and computation platforms](visualization_and_computation_platforms.pdf)
+
 ## Prerequisites
 
 Undergraduate level knowledge of molecular biology and genetics
